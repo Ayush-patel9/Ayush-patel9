@@ -1,85 +1,58 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ayush%20Patel&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Innovator&descAlignY=55&descSize=18"/>
+<div align="center">
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Ayush+Patel;%F0%9F%92%BB+Python+%7C+Java+%7C+TypeScript+Developer;%F0%9F%9A%80+Turning+Ideas+Into+Reality+Through+Code;%E2%9C%A8+Building+Cool+Stuff+One+Commit+at+a+Time" />
-</h1>
+<!-- Clean Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ayush%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16)
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Ayush;Building+E-Commerce+Platforms;Python+%7C+Java+%7C+TypeScript+Dev;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-patel-72a037316/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-patel9)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayush-patel9&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Pro](https://img.shields.io/badge/PRO-User-6f42c1?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
-<!-- ✨ Quick Info Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pro%20User-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/7-Followers-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://komarev.com/ghpvc/?username=Ayush-patel9&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=1a1a2e"/>
-</p>
+## 👨‍💻 About Me
 
----
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🧑‍💻 Who Am I?
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.gif"/>
-
-```yaml
-name: Ayush Patel
-username: Ayush-patel9
-status: GitHub Pro User ✨
-current_focus: Full Stack Development
-languages: [C, C++, Python, Java, TypeScript, JavaScript, HTML, CSS]
-frameworks: [Spring Boot]
-interests:
-  - Web Development
-  - Game Development
-  - E-Commerce Platforms
-  - Open Source
-```
-
-> 💡 **"Code is poetry written in logic"**
-
-- 🔭 Working on **E-Commerce Platforms & Web Applications**
-- 🌱 Constantly learning and building
+- 🎓 **B.Tech Student** at **IIIT Una, Himachal Pradesh**
+- 💻 Currently working on **E-Commerce Platforms**
+- � Building with **Spring Boot**, **Python**, **TypeScript**
 - 🎮 Created **Memory Game** in Python
-- � Contributed to **Umang 2025** - College Fest Website
-- ⚡ Love transforming ideas into functional software
+- 🌐 Contributed to **Umang 2025** fest website
+- 🚀 Always exploring new technologies
+- 💡 Open to **collaborations** and **cool projects**
 
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" title="Spring Boot"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
-</p>
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -89,93 +62,58 @@ interests:
 
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| **[JAVA_TEAM_COLDBLOODED](https://github.com/Ayush-patel9/JAVA_TEAM_COLDBLOODED)** | 🛒 E-Commerce Platform | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **[Memory_Game](https://github.com/Ayush-patel9/Memory_Game)** | 🧠 Interactive Memory Game | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ⭐ |
-| **[Umang2025](https://github.com/Ayush-patel9/Umang2025)** | 🎉 College Fest Website | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **[docubuddy-answer-central](https://github.com/Ayush-patel9/docubuddy-answer-central)** | 📄 Document Assistant | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **[Optimisation](https://github.com/Ayush-patel9/Optimisation)** | 📈 Optimization Algorithms | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+[![JAVA E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=Ayush-patel9&repo=JAVA_TEAM_COLDBLOODED&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Ayush-patel9/JAVA_TEAM_COLDBLOODED)
+[![Memory Game](https://github-readme-stats.vercel.app/api/pin/?username=Ayush-patel9&repo=Memory_Game&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Ayush-patel9/Memory_Game)
+
+[![Umang 2025](https://github-readme-stats.vercel.app/api/pin/?username=Ayush-patel9&repo=Umang2025&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Ayush-patel9/Umang2025)
+[![DocuBuddy](https://github-readme-stats.vercel.app/api/pin/?username=Ayush-patel9&repo=docubuddy-answer-central&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Ayush-patel9/docubuddy-answer-central)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&border_radius=15" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ayush-patel9&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&border_radius=15" alt="GitHub Streak"/>
-  
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-patel9&theme=react&hide_border=true&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea" />
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&border_radius=15&langs_count=6" alt="Top Languages"/>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-patel9&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&radius=16" width="100%" alt="Activity Graph"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-patel9&custom_title=Ayush's%20Contribution%20Activity&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&hide_border=true)
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-patel9&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
----
-
-## 🎯 Current Goals
-
-```diff
-+ 🔥 Building impactful full-stack applications
-+ 🌟 Contributing to open source projects
-+ 📚 Mastering new technologies
-+ 🤝 Collaborating with awesome developers
-```
+> 💡 *The graph above shows my last year's activity and updates in real-time whenever you visit!*
 
 ---
 
 <div align="center">
 
-## 💭 Dev Quote of the Day
+## 🤝 Connect With Me
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+<a href="https://www.linkedin.com/in/ayush-patel-72a037316/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Ayush-patel9" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate!
+### 💬 *"Code is like humor. When you have to explain it, it's bad."*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Follow_@Ayush--patel9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-patel9)
-
-<br/>
-
-*Open to collaborations, cool projects, and tech discussions!*
+![Thanks for visiting](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Have+a+great+day!+%F0%9F%91%8B;Star+%E2%AD%90+my+repos+if+you+find+them+useful!" />
-</p>
-
