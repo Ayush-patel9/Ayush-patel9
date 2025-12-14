@@ -51,7 +51,7 @@ const ayush = {
 - 🔭 Building **E-Commerce Platforms** with Spring Boot
 - 🎮 Created **Memory Game** in Python
 - 🌐 Contributed to **Umang 2025** fest website
-- � Learning new technologies every day
+- 📚 Learning new technologies every day
 - 🤝 Open to **collaborations** and **cool projects**
 
 <br clear="both"/>
@@ -162,26 +162,7 @@ const ayush = {
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-patel9&custom_title=📅%20Contribution%20Timeline&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<!-- Quick Links for Different Views -->
-<p>
-  <a href="https://github.com/Ayush-patel9?tab=overview&from=2024-12-01&to=2024-12-14">
-    <img src="https://img.shields.io/badge/📆_This_Week-667eea?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Ayush-patel9?tab=overview&from=2024-11-01&to=2024-11-30">
-    <img src="https://img.shields.io/badge/📅_This_Month-764ba2?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Ayush-patel9?tab=overview&from=2024-01-01&to=2024-12-31">
-    <img src="https://img.shields.io/badge/📊_This_Year-667eea?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Ayush-patel9">
-    <img src="https://img.shields.io/badge/🔍_View_All-764ba2?style=for-the-badge"/>
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-patel9&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -206,15 +187,6 @@ const ayush = {
 > ### *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<br/><br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
 
