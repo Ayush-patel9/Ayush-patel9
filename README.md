@@ -70,18 +70,26 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-patel9&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
-<br/><br/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-patel9&theme=tokyonight&hide_border=true"
+/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
+
 
 ---
 
@@ -184,21 +192,24 @@
   Segment Trees, Fenwick Trees, AVL Trees implementations
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-patel9&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ayush-patel9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
-<br/><br/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-patel9&theme=tokyonight&hide_border=true"
+/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-patel9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
